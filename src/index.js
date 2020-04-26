@@ -1,5 +1,8 @@
-const accountSid = 'AC72295aecfd9d3ca753cefb1545923e75';
-const authToken = 'a8b9574e68c778bbf19fdc64439ba73e';
+/**
+ * Copy account SID and authToken from twilio dashboard and paste theme here
+ */
+const accountSid = '';
+const authToken = '';
 
 const http = require('http');
 const express = require('express');
